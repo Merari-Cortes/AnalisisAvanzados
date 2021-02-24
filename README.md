@@ -18,7 +18,7 @@
 ---
 ## Unidad 1 :page_facing_up:
 
-- [C0.1IntegrarEquipo](https://docs.google.com/document/d/1RdcWoz3Y2L541jH8qSpi3kNk5B10a3S7NOxlclLUew8/editt)
+- [C0.1IntegrarEquipo](https://docs.google.com/document/d/1RdcWoz3Y2L541jH8qSpi3kNk5B10a3S7NOxlclLUew8/edit)
 
 ## Unidad 2 :page_facing_up:
 
