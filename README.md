@@ -18,7 +18,7 @@
 ---
 ## Unidad 1 :page_facing_up:
 
-- [C0.1IntegrarEquipo](https://docs.google.com/document/d/1RdcWoz3Y2L541jH8qSpi3kNk5B10a3S7NOxlclLUew8/edit)
+- [C0.1IntegrarEquipo](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/5697c1ac5d95ef4f5f12ec053137d3f80d257eac/docs/C0.1_IntegrarEquiposdeTrabajo_CortesChavarinMerariLivannette.pdf)
 
 ## Unidad 2 :page_facing_up:
 
