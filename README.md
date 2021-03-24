@@ -23,6 +23,7 @@
 - [C0.3 Diagrama de flujo del proceso](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/C0.3_Diagrama_de_flujo_del_proceso.md)
 - [A0.1 Recopilacion Entrevista](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A0.1_Recopilacion_Entrevista.md)
 ## Unidad 2 :orange_book:
+- [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/5697c1ac5d95ef4f5f12ec053137d3f80d257eac/docs/C0.1_IntegrarEquiposdeTrabajo_CortesChavarinMerariLivannette.pdf)
 ## Unidad 3 :green_book:
 ## Unidad 4 :ledger:
 ## Unidad 5 :closed_book:
