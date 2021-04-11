@@ -24,7 +24,7 @@
 - [A0.1 Recopilacion Entrevista](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A0.1_Recopilacion_Entrevista.md)
 ## Unidad 2 :orange_book:
 - [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/C1.1_Definici%C3%B3n%20_de_Objetivo_general_y_los_especificos.md)
-- [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/C1.1_Definici%C3%B3n%20_de_Objetivo_general_y_los_especificos.md)
+- [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/C1.2_Elaboracion_del_acta_constitutiva_del_proyecto.md)
 ## Unidad 3 :green_book:
 ## Unidad 4 :ledger:
 ## Unidad 5 :closed_book:
