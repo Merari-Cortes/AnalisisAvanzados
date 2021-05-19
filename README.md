@@ -32,6 +32,7 @@
 - [A1.1 RequirementsModeling UML](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A1.1_RequirementsModeling_UML.md)
 - [C2.1 Especificacion Requerimientos Funcionales](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/C2.1_EspecificacionRequerimientos_Funcionales.md)
 - [A2.1 Requirements specification and documentation](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A2.1_Requirements_specification_and_documentation.md)
+- [A2.2 Architecture_design]()
 
 ## Unidad 3 :green_book:
 ## Unidad 4 :ledger:
