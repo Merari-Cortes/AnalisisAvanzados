@@ -36,6 +36,6 @@
 - [A2.3 Software Architecture Patterns](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A2.3_Software_ArchitecturePatterns.md)
 
 ## Unidad 3 :green_book:
-- [A3.1 Scrum start phase: Project vision statement]()
+- [A3.1 Scrum start phase: Project vision statement](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A3.1_Scrum_start_phase:_Project_visionstatement.md)
 ## Unidad 4 :ledger:
 ## Unidad 5 :closed_book:
