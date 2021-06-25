@@ -39,5 +39,6 @@
 - [A3.1 Scrum start phase: Project vision statement](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A3.1_Scrum_start_phase:_Project_visionstatement.md)
 - [A3.2 Start Phase and your artifact](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A3.2%20Start%20Phase%20and%20your%20artifact.md)
 - [A3.3 Archictetura Model C4](https://github.com/Merari-Cortes/AnalisisAvanzados/blob/main/docs/A3.3_Archictetura_Model_C4.md)
+- [A3.4 Scrum Artifacts Planning Estimation]()
 ## Unidad 4 :ledger:
 ## Unidad 5 :closed_book:
